@@ -1,0 +1,11 @@
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\bin\Debug\ProgramCandyMashine.exe.config
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\bin\Debug\ProgramCandyMashine.exe
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\bin\Debug\ProgramCandyMashine.pdb
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\bin\Debug\LR_State.dll
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\bin\Debug\LR_State.pdb
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.csproj.SuggestedBindingRedirects.cache
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.csproj.CopyComplete
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.exe
+D:\Курс_II\ООАиП\LR_State\ProgramCandyMashine\obj\Debug\ProgramCandyMashine.pdb

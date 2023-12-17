@@ -1,0 +1,6 @@
+D:\Курс_II\ООАиП\LR_State\LR_State\bin\Debug\LR_State.dll
+D:\Курс_II\ООАиП\LR_State\LR_State\bin\Debug\LR_State.pdb
+D:\Курс_II\ООАиП\LR_State\LR_State\obj\Debug\LR_State.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\LR_State\LR_State\obj\Debug\LR_State.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\LR_State\LR_State\obj\Debug\LR_State.dll
+D:\Курс_II\ООАиП\LR_State\LR_State\obj\Debug\LR_State.pdb

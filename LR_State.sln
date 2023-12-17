@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR_State", "LR_State\LR_State.csproj", "{5BB67C39-6AC2-403D-BCA5-B5BDEB457B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramCandyMashine", "ProgramCandyMashine\ProgramCandyMashine.csproj", "{4A76B632-D6F1-465B-8B78-729164E302E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB67C39-6AC2-403D-BCA5-B5BDEB457B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB67C39-6AC2-403D-BCA5-B5BDEB457B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB67C39-6AC2-403D-BCA5-B5BDEB457B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB67C39-6AC2-403D-BCA5-B5BDEB457B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A76B632-D6F1-465B-8B78-729164E302E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A76B632-D6F1-465B-8B78-729164E302E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A76B632-D6F1-465B-8B78-729164E302E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A76B632-D6F1-465B-8B78-729164E302E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A7FF95-B285-466D-9AA2-86892E532D8B}
+	EndGlobalSection
+EndGlobal
